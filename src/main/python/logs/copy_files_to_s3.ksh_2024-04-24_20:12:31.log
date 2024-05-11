@@ -1,0 +1,14 @@
+copy_files_to_s3.ksh Started...: Wed Apr 24 20:12:31 UTC 2024
+Completed 149.7 KiB/149.7 KiB (182.0 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-da7c99b8-2bb0-42c1-af67-77bfe513f3de-c000.json.bz2 to s3://healthanalytics08/dimension_city/2024-04-24-20-12-31/part-00000-da7c99b8-2bb0-42c1-af67-77bfe513f3de-c000.json.bz2
+City File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/dimension_city/part-00000-da7c99b8-2bb0-42c1-af67-77bfe513f3de-c000.json.bz2 is pushed to s3.
+Completed 149.7 KiB/149.7 KiB (205.1 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-f58b0102-027e-4330-abeb-11de08e0feb3-c000.json.bz2 to s3://healthanalytics08/dimension_city/2024-04-24-20-12-31/part-00000-f58b0102-027e-4330-abeb-11de08e0feb3-c000.json.bz2
+City File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/dimension_city/part-00000-f58b0102-027e-4330-abeb-11de08e0feb3-c000.json.bz2 is pushed to s3.
+Completed 5.3 KiB/5.3 KiB (10.5 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00000-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc to s3://healthanalytics08/presc/2024-04-24-20-12-31/part-00000-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc
+Presc File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/presc/part-00000-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc is pushed to s3.
+Completed 5.3 KiB/5.3 KiB (10.7 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00000-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc to s3://healthanalytics08/presc/2024-04-24-20-12-31/part-00000-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc
+Presc File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/presc/part-00000-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc is pushed to s3.
+Completed 5.7 KiB/5.7 KiB (11.1 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00001-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc to s3://healthanalytics08/presc/2024-04-24-20-12-31/part-00001-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc
+Presc File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/presc/part-00001-1a2939f2-2445-4e46-85d9-c403d93dfe53-c000.snappy.orc is pushed to s3.
+Completed 5.7 KiB/5.7 KiB (10.6 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00001-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc to s3://healthanalytics08/presc/2024-04-24-20-12-31/part-00001-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc
+Presc File /home/praneethchavva06/HeallthAnalytics/src/main/python/output/presc/part-00001-b318d65a-e0a8-4c8f-b09c-114c6a22a028-c000.snappy.orc is pushed to s3.
+The copy_files_to_s3.ksh is complete...: {2024-04-24_20:12:31}
